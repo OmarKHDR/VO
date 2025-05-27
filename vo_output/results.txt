@@ -1,5 +1,7 @@
-Total frames: 304
-Total distance: 30.20m
-Start position: (-0.07, 0.07, 0.00)
-End position: (2.36, 0.59, 1.90)
-Drift error: 3.13m
+Simple Visual Odometry Results
+==============================
+Scale factor: 0.1
+Total frames: 187
+Total distance: 8.10m
+Final position: (0.01, -2.43, -3.78)
+Distance from start: 4.49m

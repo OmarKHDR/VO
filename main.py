@@ -19,7 +19,7 @@ signal.signal(signal.SIGINT, interrupt_handler)
 
 while True:
 	cap = None
-	print("hints: you can edit checkerboard size and the camera uri in [[calibration.json]]")
+	print("hints: you can edit checkerboard size and the camera uri in [[calibration_params.json]]")
 	prog = input("enter c for calibration, v for visual odometry, q to quit: ")
 
 	if prog == 'c':

@@ -1,5 +1,6 @@
 {
-	"cam_url": 0,
+	"cam_url": "http://192.168.1.8:4747/video",
 	"board": [6, 8],
-	"square_size": 19
+	"square_size": 19,
+    "vo_scale_factor": 0.1
 }
